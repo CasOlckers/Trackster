@@ -1,7 +1,16 @@
 /*
   Custom styles for Trackster App
 */
+html {
+  font-size: 16px;
+}
 
 .navbar {
   background-color: rgb(35, 2, 63);
+}
+
+#mainHeading {
+  font-family: Righteous;
+  font-size: 2.5rem;
+  color: rgb(255, 0, 171);
 }
